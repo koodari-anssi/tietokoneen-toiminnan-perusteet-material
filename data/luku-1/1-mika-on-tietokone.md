@@ -28,7 +28,7 @@ Mikä tekee jostain laitteesta tietokoneen? Yleisesti ottaen tietokone on mikä 
 ## Pikatehtävät (kyselyt, quizit)
 Kurssilla on huomattava määrä automaattisesti arvioitavia pikatehtäviä. Pääosa niistä on kunkin aliluvun lopussa, mutta osa myös keskellä oppimateriaalia. Joissakin pikatehtävissä voi olla monta oikeata vastausta. Valitse tuolloin joku niistä.
 
-Pohdi kysymyksiä harkiten ja käy läpi oppimateriaalia uudestaan tarvittaessa. Jokainen kysymys on mahdollisuus oppia lisää ja syventää tietämystästäsi. Älä siis heitä näitä mahdollisuuksia hukkaan! 
+Pohdi kysymyksiä harkiten ja käy läpi oppimateriaalia uudestaan tarvittaessa. Jokainen kysymys on mahdollisuus oppia lisää ja syventää tietämystäsi. Älä siis heitä näitä mahdollisuuksia hukkaan! 
 
 Kurssi on suunniteltu sillä ajatuksella, että opiskelijat tekevät kaikki tehtävät ajatuksella. Jotkut tehtävistä ovat triviaaleja, mutta joidenkin pohtimiseen voi mennä paljonkin aikaa. Syvällisempi oppiminen tapahtuu juuri tehtäviä pohtiessa. Älä silti suotta hermoile, jos joku vastauksesi on väärin, koska ainakin joidenkin tehtävien osalta vastauksen oikeellisuus voi riippua näkökulmasta. Virheelliseksi merkityistäkin vastauksista oppii paljon - usein jopa enemmän kuin oikeista vastauksista! 
 
